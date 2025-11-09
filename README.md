@@ -21,7 +21,7 @@
 
 ---
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=adrienlss&theme=github)
+![Graphique de contributions](assets/contributions.png)
 
 ---
 
