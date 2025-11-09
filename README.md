@@ -21,7 +21,7 @@
 
 ---
 
-![Graphique de contributions](assets/contributions.png)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=adrienlss&show_icons=true&theme=dark&count_private=true)
 
 ---
 
