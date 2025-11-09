@@ -44,7 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Metasploit_logo.svg" alt="Metasploit" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" alt="Nmap" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="Burp Suite" width="40" height="40"/>
 </p>
