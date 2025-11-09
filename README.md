@@ -21,7 +21,7 @@
 
 ---
 
-![Contributions](https://ghchart.rshah.org/adrienlss)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=adrienlss&theme=github)
 
 ---
 
