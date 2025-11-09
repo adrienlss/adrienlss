@@ -4,30 +4,6 @@
 
 ---
 
--  Étudiant passionné de **cybersécurité**, **CTF** et **infrastructure**  
--  Membre de **DaVinciCode — ESILV**  
--  Pratiquant **TryHackMe**, **RootMe** et **HackTheBox**  
--  Construction **labs**, **scripts** et **projet d'infra**
-- Développement [**prepavenir.eu**](https://prepavenir.eu)
-    
----
-
-###  Domaines d’intérêt
-- CTF & bug bounty débutant  
-- Pentest et sécurité offensive  
-- Systèmes Linux & réseaux  
-- Python / Bash  
-- Infrastructure et automatisation
-  
----
-
----
-
-### 🤝 Connect with me
-[![Discord](https://img.shields.io/badge/Discord-ad.lsl-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/ad.lsl)
-
----
-
 ### ⚙️ Languages & Tools
 
 <p align="left">
@@ -47,6 +23,28 @@
   <img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" alt="Nmap" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="Burp Suite" width="40" height="40"/>
 </p>
+
+---
+
+-  Étudiant passionné de **cybersécurité**, **CTF** et **infrastructure**  
+-  Membre de **DaVinciCode — ESILV**  
+-  Pratiquant **TryHackMe**, **RootMe** et **HackTheBox**  
+-  Construction **labs**, **scripts** et **projet d'infra**
+- Développement [**prepavenir.eu**](https://prepavenir.eu)
+    
+---
+
+###  Domaines d’intérêt
+- CTF & bug bounty débutant  
+- Pentest et sécurité offensive  
+- Systèmes Linux & réseaux  
+- Python / Bash  
+- Infrastructure et automatisation
+  
+---
+
+### 🤝 Connect with me
+[![Discord](https://img.shields.io/badge/Discord-ad.lsl-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/ad.lsl)
 
 ---
 
