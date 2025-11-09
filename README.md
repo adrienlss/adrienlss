@@ -12,8 +12,9 @@
     
 ---
 
-### 📊 Stats GitHub
+### 📊 Stats GitHub/TryHackMe
 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-adrien.lsl-blue)](https://tryhackme.com/p/adrien.lsl)
 ![Stats](https://github-readme-stats.vercel.app/api?username=adrienlss&show_icons=true&theme=tokyonight&count_private=true)
 ![Streak](https://streak-stats.demolab.com?user=adrienlss&theme=tokyonight)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=adrienlss&theme=tokyonight&margin-w=10)
