@@ -18,11 +18,7 @@
 - Systèmes Linux & réseaux  
 - Python / Bash  
 - Infrastructure et automatisation
-
----
-
-![Metrics](https://metrics.lecoq.io/adrienlss?template=classic&base.activity=0&base.community=0&base.metadata=0&isocalendar=1&languages=1&followup=1&lines=1&config.timezone=Europe/Paris)
-
+  
 ---
 
 ### 📊 Stats GitHub
