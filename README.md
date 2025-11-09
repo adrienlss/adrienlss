@@ -21,7 +21,7 @@
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adrienlss&theme=tokyo-night&hide_border=true)
+![Metrics](https://metrics.lecoq.io/adrienlss?template=classic&base.activity=0&base.community=0&base.metadata=0&isocalendar=1&languages=1&followup=1&lines=1&config.timezone=Europe/Paris)
 
 ---
 
@@ -30,6 +30,8 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=adrienlss&show_icons=true&theme=tokyonight&count_private=true)
 ![Streak](https://streak-stats.demolab.com?user=adrienlss&theme=tokyonight)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=adrienlss&theme=tokyonight&margin-w=10)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adrienlss&theme=tokyo-night&hide_border=true)
+
 
 
 
