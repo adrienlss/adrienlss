@@ -21,7 +21,7 @@
 
 ---
 
-![Contributions](https://github.com/users/adrienlss/contributions)
+![Contributions](https://ghchart.rshah.org/adrienlss)
 
 ---
 
