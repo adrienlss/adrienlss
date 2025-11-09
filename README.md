@@ -21,6 +21,10 @@
 
 ---
 
+![Contributions](https://github.com/users/TON_USER/contributions)
+
+---
+
 ### 📊 Stats GitHub
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=adrienlss&show_icons=true&theme=tokyonight&count_private=true)
