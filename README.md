@@ -26,8 +26,3 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=adrienlss&show_icons=true&theme=tokyonight&count_private=true)
 ![Streak](https://streak-stats.demolab.com?user=adrienlss&theme=tokyonight)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=adrienlss&theme=tokyonight&margin-w=10)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adrienlss&theme=tokyo-night&hide_border=true)
-
-
-
-
