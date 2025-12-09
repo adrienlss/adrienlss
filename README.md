@@ -46,8 +46,3 @@
 
 ### 🤝 Connect with me
 [![Discord](https://img.shields.io/badge/Discord-ad.lsl-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/ad.lsl)
-
----
-
-### 📊 Stats GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=adrienlss&show_icons=true&theme=tokyonight)
