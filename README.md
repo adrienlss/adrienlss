@@ -50,11 +50,4 @@
 ---
 
 ### 📊 Stats GitHub
-### 📊 Stats GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrienlss&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://streak-stats.demolab.com?user=adrienlss&theme=tokyonight" alt="Streak" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=adrienlss&theme=tokyonight&margin-w=10" alt="Trophies" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=adrienlss&show_icons=true&theme=tokyonight)
